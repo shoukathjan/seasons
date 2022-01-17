@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/seasons-React/static/css/main.b944234e.chunk.css",
+    "main.js": "/seasons-React/static/js/main.f468585d.chunk.js",
+    "main.js.map": "/seasons-React/static/js/main.f468585d.chunk.js.map",
+    "runtime-main.js": "/seasons-React/static/js/runtime-main.7c2fd909.js",
+    "runtime-main.js.map": "/seasons-React/static/js/runtime-main.7c2fd909.js.map",
+    "static/js/2.405f575e.chunk.js": "/seasons-React/static/js/2.405f575e.chunk.js",
+    "static/js/2.405f575e.chunk.js.map": "/seasons-React/static/js/2.405f575e.chunk.js.map",
+    "index.html": "/seasons-React/index.html",
+    "static/css/main.b944234e.chunk.css.map": "/seasons-React/static/css/main.b944234e.chunk.css.map",
+    "static/js/2.405f575e.chunk.js.LICENSE.txt": "/seasons-React/static/js/2.405f575e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c2fd909.js",
+    "static/js/2.405f575e.chunk.js",
+    "static/css/main.b944234e.chunk.css",
+    "static/js/main.f468585d.chunk.js"
+  ]
+}
